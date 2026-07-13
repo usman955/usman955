@@ -81,7 +81,7 @@ Python-based secure file storage system using **AES-256 encryption, SQLite, and 
 
 - **GitHub:** https://github.com/usman955
 - **Email:** **usm760999@gmail.com**
-- **LinkedIn:** *(Add your LinkedIn URL here)*
+- **LinkedIn:** *
 
 ---
 
