@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610">
+<defs>
+<linearGradient id="g" x1="0%" x2="100%">
+<stop offset="0%" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="8s" repeatCount="indefinite"/></stop>
+<stop offset="100%" stop-color="#22D3EE"/>
+</linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1180" height="610" rx="28" fill="#030712"/>
+<rect x="25" y="25" width="420" height="560" rx="22" fill="#0F172A" stroke="url(#g)" opacity=".95"/>
+<rect x="470" y="25" width="685" height="560" rx="22" fill="#0F172A" stroke="url(#g)"/>
+<g filter="url(#glow)" font-family="monospace" font-size="13" fill="url(#g)">
+<text x="60" y="90">
+<tspan x="60" dy="0">      .----.</tspan>
+<tspan x="60" dy="18">     / .--. \</tspan>
+<tspan x="60" dy="18">    | | () | |</tspan>
+<tspan x="60" dy="18">    |  \__/  |</tspan>
+<tspan x="60" dy="18">     \      /</tspan>
+<tspan x="60" dy="18">      '----'</tspan>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" repeatCount="indefinite"/>
+</text>
+</g>
+<text x="510" y="80" fill="#F8FAFC" font-family="monospace" font-size="26">Hi 👋 I'm Muhammed Usman</text>
+<text x="510" y="120" fill="url(#g)" font-family="monospace" font-size="20">AI/ML Engineer<tspan>█<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+<text x="510" y="170" fill="#94A3B8" font-family="monospace">📍 Pakistan</text>
+<text x="510" y="200" fill="#94A3B8" font-family="monospace">🎓 FAST-NUCES BSCS</text>
+<text x="510" y="230" fill="#94A3B8" font-family="monospace">🎯 Focus: Machine Learning & Data Science</text>
+<g font-family="sans-serif" font-size="15">
+<rect x="510" y="280" width="120" height="34" rx="17" fill="#111827" stroke="url(#g)"/><text x="528" y="302" fill="#F8FAFC">Python</text><rect x="650" y="280" width="120" height="34" rx="17" fill="#111827" stroke="url(#g)"/><text x="668" y="302" fill="#F8FAFC">Scikit-learn</text><rect x="790" y="280" width="120" height="34" rx="17" fill="#111827" stroke="url(#g)"/><text x="808" y="302" fill="#F8FAFC">Pandas</text><rect x="930" y="280" width="120" height="34" rx="17" fill="#111827" stroke="url(#g)"/><text x="948" y="302" fill="#F8FAFC">NumPy</text><rect x="510" y="335" width="120" height="34" rx="17" fill="#111827" stroke="url(#g)"/><text x="528" y="357" fill="#F8FAFC">TensorFlow</text><rect x="650" y="335" width="120" height="34" rx="17" fill="#111827" stroke="url(#g)"/><text x="668" y="357" fill="#F8FAFC">SQL</text><rect x="790" y="335" width="120" height="34" rx="17" fill="#111827" stroke="url(#g)"/><text x="808" y="357" fill="#F8FAFC">Git</text><rect x="930" y="335" width="120" height="34" rx="17" fill="#111827" stroke="url(#g)"/><text x="948" y="357" fill="#F8FAFC">Docker</text></g></svg>
