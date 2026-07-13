@@ -8,13 +8,12 @@
 
 Building practical AI, backend, and secure software projects.
 
-<div align="center">
+<br>
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=usm760999@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=usm760999@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usman955)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-usman-709a2b24b/)
+
 </div>
 
 ---
@@ -23,29 +22,31 @@ I'm a **Computer Science student at FAST-NUCES** with interests in **Artificial 
 
 I enjoy solving real-world problems through software engineering, predictive modeling, and practical AI applications while continuously improving my technical skills.
 
+---
+
 ## Tech Stack
 
 ### Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,mysql"/>
 </p>
 
 ### Backend & Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite"/>
 </p>
 
 ### Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
 </p>
 
 ### Libraries & Frameworks
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/EJS-323330?style=for-the-badge&logo=ejs&logoColor=white"/>
 
@@ -63,25 +64,20 @@ I enjoy solving real-world problems through software engineering, predictive mod
 
 ## Featured Projects
 
-### Waste Management System
+- **Waste Management System**  
+  Full-stack waste reporting and recycling tracker built using **Node.js, Express, EJS, and MySQL**.
 
-A full-stack waste reporting and recycling tracker built using **Node.js, Express, EJS, and MySQL**.
+- **EyeGuard-XAI**  
+  Reliable and Explainable Retinal Disease Screening System using Artificial Intelligence.
 
-### EyeGuard-XAI
+- **Secure File Storage System**  
+  Python-based secure file storage system implementing **AES-256 encryption**, **PBKDF2**, and **SQLite**.
 
-Reliable and Explainable Retinal Disease Screening System using Artificial Intelligence.
+- **Parkinson's Disease Detection**  
+  Machine Learning model for Parkinson's disease detection using spiral drawing analysis.
 
-### Secure File Storage System
-
-Python-based secure file storage system implementing **AES-256 encryption**, **PBKDF2**, and **SQLite**.
-
-### Parkinson's Disease Detection
-
-Machine Learning model for Parkinson's disease detection using spiral drawing analysis.
-
-### Exam Scheduling System
-
-Constraint Satisfaction Problem solver using heuristic optimization and graph theory.
+- **Exam Scheduling System**  
+  Constraint Satisfaction Problem solver using heuristic optimization and graph theory.
 
 ---
 
@@ -92,7 +88,7 @@ Constraint Satisfaction Problem solver using heuristic optimization and graph th
 - Data Science
 - Backend Development
 - Database Design
-- Object Oriented Programming
+- Object-Oriented Programming
 - Cybersecurity
 - Data Structures & Algorithms
 - Problem Solving
