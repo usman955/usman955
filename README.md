@@ -1,5 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.png" alt="Muhammed Usman Banner" width="100%">
+</p>
 
+<div align="center">
 # Muhammed Usman
 
 ### BS Computer Science @ FAST-NUCES
