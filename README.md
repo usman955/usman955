@@ -6,14 +6,12 @@
   </picture>
 </p>
 
-# Hi, I'm Muhammed Usman 👋
+# Hi, I'm Muhammed Usman 
 
-🎓 **BS Computer Science @ FAST-NUCES**
+ **BS Computer Science @ FAST-NUCES**
 
-🤖 **AI & Machine Learning Enthusiast**
+**AI & Machine Learning Enthusiast**
 
-💻 **Python | Machine Learning | Data Science**
-
-🚀 Currently building AI projects and growing my portfolio.
+**Python | Machine Learning | Data Science**
 
 ---
