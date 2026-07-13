@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammed Usman
+# Muhammed Usman
 
-### 🎓 BS Computer Science @ FAST-NUCES
+### BS Computer Science @ FAST-NUCES
 
-### 🤖 AI & Machine Learning Enthusiast
+AI & Machine Learning Enthusiast • Backend Development • Python
 
 Building practical AI solutions through Machine Learning, Python, and Backend Development.
 
@@ -18,18 +18,23 @@ Building practical AI solutions through Machine Learning, Python, and Backend De
 
 ---
 
-# 🚀 About Me
+## About Me
 
-- 🎓 BS Computer Science student at **FAST-NUCES**
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🐍 Python Developer
-- 💻 Interested in Backend Development
-- 📚 Currently learning Machine Learning, Deep Learning & MLOps
-- 🌱 Building real-world AI projects for my portfolio
+I'm a **Computer Science student at FAST-NUCES** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science, and Backend Development**.
+
+I'm currently building practical AI projects while strengthening my software engineering skills and preparing for AI/ML opportunities.
+
+### Currently Learning
+
+- Machine Learning
+- Deep Learning
+- MLOps
+- Data Structures & Algorithms
+- System Design
 
 ---
 
-# 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -39,7 +44,7 @@ Building practical AI solutions through Machine Learning, Python, and Backend De
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
 
@@ -57,52 +62,31 @@ Building practical AI solutions through Machine Learning, Python, and Backend De
 
 ---
 
-# ⭐ Featured Projects
+## Featured Projects
 
-### ♻️ Waste Management System
-Node.js • Express • EJS • MySQL
+### Waste Management System
+Full-stack waste reporting and recycling tracker built with **Node.js, Express, EJS, and MySQL**.
 
----
+### EyeGuard-XAI
+Reliable & Explainable Retinal Disease Screening System using AI.
 
-### 👁️ EyeGuard-XAI
-Reliable & Explainable Retinal Disease Screening System using AI
+### Secure File Storage System
+Python-based secure file storage system using **AES-256 encryption, SQLite, and PBKDF2**.
 
----
-
-### 🔐 Secure File Storage System
-Python • SQLite • AES-256 Encryption
+### Customer Churn Prediction *(Coming Soon)*
 
 ---
 
-### 🤖 Customer Churn Prediction
-🚧 Coming Soon...
+## Connect With Me
 
----
-
-# 📚 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Data Science
-- MLOps
-- System Design
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/usman955">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+- **GitHub:** https://github.com/usman955
+- **Email:** **usm760999@gmail.com**
+- **LinkedIn:** *(Add your LinkedIn URL here)*
 
 ---
 
 <div align="center">
 
-### 💡 *"Strive for progress, not perfection."*
+*"Strive for progress, not perfection."*
 
 </div>
