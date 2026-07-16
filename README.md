@@ -100,7 +100,7 @@ Machine Learning model for Parkinson's disease detection using spiral drawing an
 Constraint Satisfaction Problem solver using graph coloring and heuristic optimization.
 
 ---
-### 🏦 [Banking Fraud Detection System(Data Structures)](https://github.com/usman955/University-projects)
+### [Banking Fraud Detection System(Data Structures)](https://github.com/usman955/University-projects)
 
 A banking fraud detection application developed in **C++** using **graphs, linked lists, queues, and priority queues** to detect suspicious transaction cycles, identify high-value transactions, and manage blacklisted accounts.
 
