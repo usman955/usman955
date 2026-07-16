@@ -27,6 +27,7 @@ Building practical AI, backend, and secure software projects.
 I'm a **Computer Science student at FAST-NUCES** passionate about **Artificial Intelligence, Machine Learning, Backend Development, and Secure Software Systems**.
 
 I enjoy building practical software and AI solutions that solve real-world problems while continuously improving my software engineering and machine learning skills.
+
 ---
 ## Tech Stack
 
