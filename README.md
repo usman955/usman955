@@ -26,25 +26,31 @@ Building practical AI, backend, and secure software projects.
 
 I'm a **Computer Science student at FAST-NUCES** passionate about **Artificial Intelligence, Machine Learning, Backend Development, and Secure Software Systems**.
 
-I enjoy building practical software that solves real-world problems while continuously strengthening my skills in AI, backend development, and software engineering.
-
+I enjoy building practical software and AI solutions that solve real-world problems while continuously improving my software engineering and machine learning skills.
 ---
-
 ## Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,c"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
 
 <br><br>
 
-### Backend & Databases
+### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-<br>
+<img src="https://img.shields.io/badge/EJS-323330?style=flat-square&logo=ejs&logoColor=white"/>
+
+<br><br>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+<br><br>
 
 ### Machine Learning
 
@@ -55,18 +61,11 @@ I enjoy building practical software that solves real-world problems while contin
 
 <br><br>
 
-### Backend Frameworks
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<br><br>
-
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
 
 </div>
-
 ---
 
 ## Featured Projects
@@ -109,12 +108,11 @@ A banking fraud detection application developed in **C++** using **graphs, linke
 
 - Artificial Intelligence
 - Machine Learning
-- Data Analysis
 - Backend Development
 - Secure Software Development
 - Database Design
 - Object-Oriented Programming
-- Cybersecurity
+- Python Development
 - Data Structures & Algorithms
 - Problem Solving
 
