@@ -36,7 +36,7 @@ I enjoy building practical software that solves real-world problems while contin
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,c"/>
 
 <br><br>
 
@@ -44,7 +44,7 @@ I enjoy building practical software that solves real-world problems while contin
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite"/>
 
-<br><br>
+<br>
 
 ### Machine Learning
 
@@ -57,7 +57,7 @@ I enjoy building practical software that solves real-world problems while contin
 
 ### Backend Frameworks
 
-<img src="https://img.shields.io/badge/EJS-323330?style=flat-square&logo=ejs&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=express"/>
 
 <br><br>
 
@@ -89,13 +89,13 @@ Python-based secure file storage system implementing **AES-256 encryption**, **P
 
 ---
 
-### Parkinson's Disease Detection
+### [Parkinson's Disease Detection](https://github.com/usman955/University-projects)
 
 Machine Learning model for Parkinson's disease detection using spiral drawing analysis.
 
 ---
 
-###  Exam Scheduling System
+###  [Exam Scheduling System](https://github.com/usman955/University-projects)
 
 Constraint Satisfaction Problem solver using graph coloring and heuristic optimization.
 
