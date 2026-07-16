@@ -89,18 +89,22 @@ Python-based secure file storage system implementing **AES-256 encryption**, **P
 
 ---
 
-### [Parkinson's Disease Detection](https://github.com/usman955/University-projects)
+### [Parkinson's Disease Detection (Data Sciece)](https://github.com/usman955/University-projects)
 
 Machine Learning model for Parkinson's disease detection using spiral drawing analysis.
 
 ---
 
-###  [Exam Scheduling System](https://github.com/usman955/University-projects)
+###  [Exam Scheduling System (Graph Theory)](https://github.com/usman955/University-projects)
 
 Constraint Satisfaction Problem solver using graph coloring and heuristic optimization.
 
 ---
+### 🏦 [Banking Fraud Detection System(Data Structures)](https://github.com/usman955/University-projects)
 
+A banking fraud detection application developed in **C++** using **graphs, linked lists, queues, and priority queues** to detect suspicious transaction cycles, identify high-value transactions, and manage blacklisted accounts.
+
+---
 ## Core Skills
 
 - Artificial Intelligence
