@@ -71,6 +71,12 @@ I enjoy building practical software and AI solutions that solve real-world probl
 
 ## Featured Projects
 
+### [AI Virtual Steering Wheel](https://github.com/usman955/AI-Virtual-Steering-Wheel)
+
+AI-powered virtual steering wheel that uses OpenCV, MediaPipe, and a virtual Xbox 360 controller to translate hand gestures into real-time steering and acceleration.
+
+---
+
 ### [Waste Management System](https://github.com/usman955/waste-management-system)
 
 Full-stack waste reporting and recycling platform built with **Node.js, Express, EJS, and MySQL**.
