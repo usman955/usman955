@@ -76,6 +76,11 @@ I enjoy building practical software and AI solutions that solve real-world probl
 AI-powered virtual steering wheel that uses OpenCV, MediaPipe, and a virtual Xbox 360 controller to translate hand gestures into real-time steering and acceleration.
 
 ---
+### [Student Management REST API](https://github.com/usman955/student-management-api)
+
+RESTful Student Management API built with Node.js, Express.js, MongoDB, and Mongoose, featuring JWT authentication, role-based authorization, CRUD operations, search, filtering, sorting, pagination, and image uploads.
+
+---
 
 ### [Waste Management System](https://github.com/usman955/waste-management-system)
 
